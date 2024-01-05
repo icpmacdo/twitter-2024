@@ -1,2 +1,2 @@
 # twitter-2024
-Node.js, Postgres, React, Tailwind
+Classic practice with Node.js, Postgres, React, Tailwind
