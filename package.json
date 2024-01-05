@@ -1,0 +1,8 @@
+{
+  "name": "twitter-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:icpmacdo/twitter-2024.git",
+  "author": "ian <icpmacdo@gmail.com>",
+  "license": "MIT"
+}
